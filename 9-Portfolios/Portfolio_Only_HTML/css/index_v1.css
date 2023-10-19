@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    width: 7%;
+    border-width: 5px;
+    border-color: aqua;
+    height: auto;
+           
+}
+.heading{
+    color: blue;
+    text-decoration: wavy;
+}
+#image{
+    margin-left: 35%;
+}
